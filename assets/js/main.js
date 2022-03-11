@@ -21,6 +21,7 @@ $(document).ready(function () {
 
                 success: function (datos) {
 
+                    
                     // PowerStats (Estadísticas de poder)
                     let {
                         'intelligence': int
